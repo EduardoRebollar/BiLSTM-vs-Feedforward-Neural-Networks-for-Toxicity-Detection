@@ -1,0 +1,2 @@
+# BiLSTM-vs-Feedforward-Neural-Networks-for-Toxicity-Detection
+The goal of this project is to design and train a baseline FeedForward Neural Network (FFNN) against an improved, advanced Bidirectional LSTM (BiLSTM) with attention that classifies user comments into 6 toxicity categories using the Jigsaw Toxic Comment Classification dataset, and then compare their performance using multi-label evaluation metrics.
