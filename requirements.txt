@@ -1,0 +1,11 @@
+# Core Python ML libraries
+pandas
+numpy
+scikit-learn
+
+# Visualization libraries
+seaborn
+matplotlib
+
+# PyTorch for deep learning
+torch
