@@ -77,7 +77,7 @@ BiLSTM vs Feedforward Neural Networks for Toxicity Detection/
    - Visualizations: `images/` folder
 
 ## Optional: Cleanup Pre-Generated Outputs Before Training Your Own Model
-If you want to train your own fresh models instead of using the pre-generated artifacts in this repository, you may delete what is found inside the following folders:
+If you want to train your own fresh models instead of using the pre-generated outputs in this repository, you may delete what is found inside the following folders:
 ```bash
 trained_model_paths/      # Contains pretrained baseline & BiLSTM .pth model files
 model_predictions/        # Contains prediction CSVs produced by predict.py
